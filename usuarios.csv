@@ -1,0 +1,51 @@
+id,nombres,apellidos,direccion,email,dni,edad,fecha_creacion,telefono
+1,Juan,Pérez,Calle Falsa 123,juan.perez@example.com,12345678A,30,Sun Jan 01 2023 10:00:00 GMT-0500 (hora estándar de Perú),555-1234
+2,María,Gómez,Avenida Siempre Viva 742,maria.gomez@example.com,23456789B,25,Mon Jan 02 2023 11:00:00 GMT-0500 (hora estándar de Perú),555-5678
+3,Luis,Martínez,Boulevard del Sol 456,luis.martinez@example.com,34567890C,40,Tue Jan 03 2023 12:00:00 GMT-0500 (hora estándar de Perú),555-8765
+4,Ana,Rodríguez,Calle Luna 789,ana.rodriguez@example.com,45678901D,35,Wed Jan 04 2023 13:00:00 GMT-0500 (hora estándar de Perú),555-4321
+5,Pedro,López,Avenida del Parque 101,pedro.lopez@example.com,56789012E,28,Thu Jan 05 2023 14:00:00 GMT-0500 (hora estándar de Perú),555-8764
+6,Laura,Hernández,Calle del Río 202,laura.hernandez@example.com,67890123F,32,Fri Jan 06 2023 15:00:00 GMT-0500 (hora estándar de Perú),555-2345
+7,Jorge,Sánchez,Avenida Central 303,jorge.sanchez@example.com,78901234G,45,Sat Jan 07 2023 16:00:00 GMT-0500 (hora estándar de Perú),555-6543
+8,Elena,Ramírez,Calle del Lago 404,elena.ramirez@example.com,89012345H,29,Sun Jan 08 2023 17:00:00 GMT-0500 (hora estándar de Perú),555-8762
+9,Ricardo,Cruz,Avenida de los Pinos 505,ricardo.cruz@example.com,90123456I,36,Mon Jan 09 2023 18:00:00 GMT-0500 (hora estándar de Perú),555-3456
+10,Sandra,Morales,Calle de la Estrella 606,sandra.morales@example.com,01234567J,27,Tue Jan 10 2023 19:00:00 GMT-0500 (hora estándar de Perú),555-7890
+11,Carlos,Ortega,Avenida del Bosque 707,carlos.ortega@example.com,12345678K,38,Wed Jan 11 2023 20:00:00 GMT-0500 (hora estándar de Perú),555-4323
+12,Marta,Castro,Calle del Sol 808,marta.castro@example.com,23456789L,41,Thu Jan 12 2023 21:00:00 GMT-0500 (hora estándar de Perú),555-3214
+13,Roberto,Vargas,Avenida de la Luna 909,roberto.vargas@example.com,34567890M,33,Fri Jan 13 2023 22:00:00 GMT-0500 (hora estándar de Perú),555-6545
+14,Lucía,Rojas,Calle del Mar 1010,lucia.rojas@example.com,45678901N,26,Sat Jan 14 2023 23:00:00 GMT-0500 (hora estándar de Perú),555-1235
+15,Andrés,Flores,Avenida del Sol 111,andres.flores@example.com,56789012O,31,Sun Jan 15 2023 00:00:00 GMT-0500 (hora estándar de Perú),555-5677
+16,Patricia,Jiménez,Calle de la Luna 212,patricia.jimenez@example.com,67890123P,44,Mon Jan 16 2023 01:00:00 GMT-0500 (hora estándar de Perú),555-9876
+17,Francisco,Soto,Avenida del Río 313,francisco.soto@example.com,78901234Q,39,Tue Jan 17 2023 02:00:00 GMT-0500 (hora estándar de Perú),555-5432
+18,Beatriz,Torres,Calle del Bosque 414,beatriz.torres@example.com,89012345R,35,Wed Jan 18 2023 03:00:00 GMT-0500 (hora estándar de Perú),555-6789
+19,Alberto,García,Avenida de la Estrella 515,alberto.garcia@example.com,90123456S,30,Thu Jan 19 2023 04:00:00 GMT-0500 (hora estándar de Perú),555-8761
+20,Isabel,Mendoza,Calle del Sol 616,isabel.mendoza@example.com,01234567T,42,Fri Jan 20 2023 05:00:00 GMT-0500 (hora estándar de Perú),555-3457
+21,Fernando,Ríos,Avenida de los Pinos 717,fernando.rios@example.com,12345678U,28,Sat Jan 21 2023 06:00:00 GMT-0500 (hora estándar de Perú),555-7654
+22,Carmen,Navarro,Calle del Parque 818,carmen.navarro@example.com,23456789V,29,Sun Jan 22 2023 07:00:00 GMT-0500 (hora estándar de Perú),555-2346
+23,Javier,Romero,Avenida del Lago 919,javier.romero@example.com,34567890W,33,Mon Jan 23 2023 08:00:00 GMT-0500 (hora estándar de Perú),555-8763
+24,Gloria,Reyes,Calle del Mar 1020,gloria.reyes@example.com,45678901X,27,Tue Jan 24 2023 09:00:00 GMT-0500 (hora estándar de Perú),555-0987
+25,Manuel,Silva,Avenida del Bosque 1111,manuel.silva@example.com,56789012Y,34,Wed Jan 25 2023 10:00:00 GMT-0500 (hora estándar de Perú),555-4324
+26,Juan,Pérez,Calle Falsa 123,juan.perez@example.com,12345678A,30,Invalid Date,555-1234
+27,María,Gómez,Avenida Siempre Viva 742,maria.gomez@example.com,23456789B,25,Invalid Date,555-5678
+28,Luis,Martínez,Boulevard del Sol 456,luis.martinez@example.com,34567890C,40,Invalid Date,555-8765
+29,Ana,Rodríguez,Calle Luna 789,ana.rodriguez@example.com,45678901D,35,Invalid Date,555-4321
+30,Pedro,López,Avenida del Parque 101,pedro.lopez@example.com,56789012E,28,Invalid Date,555-8764
+31,Laura,Hernández,Calle del Río 202,laura.hernandez@example.com,67890123F,32,Invalid Date,555-2345
+32,Jorge,Sánchez,Avenida Central 303,jorge.sanchez@example.com,78901234G,45,Invalid Date,555-6543
+33,Elena,Ramírez,Calle del Lago 404,elena.ramirez@example.com,89012345H,29,Invalid Date,555-8762
+34,Ricardo,Cruz,Avenida de los Pinos 505,ricardo.cruz@example.com,90123456I,36,Invalid Date,555-3456
+35,Sandra,Morales,Calle de la Estrella 606,sandra.morales@example.com,01234567J,27,Invalid Date,555-7890
+36,Carlos,Ortega,Avenida del Bosque 707,carlos.ortega@example.com,12345678K,38,Invalid Date,555-4323
+37,Marta,Castro,Calle del Sol 808,marta.castro@example.com,23456789L,41,Invalid Date,555-3214
+38,Roberto,Vargas,Avenida de la Luna 909,roberto.vargas@example.com,34567890M,33,Invalid Date,555-6545
+39,Lucía,Rojas,Calle del Mar 1010,lucia.rojas@example.com,45678901N,26,Invalid Date,555-1235
+40,Andrés,Flores,Avenida del Sol 111,andres.flores@example.com,56789012O,31,Invalid Date,555-5677
+41,Patricia,Jiménez,Calle de la Luna 212,patricia.jimenez@example.com,67890123P,44,Invalid Date,555-9876
+42,Francisco,Soto,Avenida del Río 313,francisco.soto@example.com,78901234Q,39,Invalid Date,555-5432
+43,Beatriz,Torres,Calle del Bosque 414,beatriz.torres@example.com,89012345R,35,Invalid Date,555-6789
+44,Alberto,García,Avenida de la Estrella 515,alberto.garcia@example.com,90123456S,30,Invalid Date,555-8761
+45,Isabel,Mendoza,Calle del Sol 616,isabel.mendoza@example.com,01234567T,42,Invalid Date,555-3457
+46,Fernando,Ríos,Avenida de los Pinos 717,fernando.rios@example.com,12345678U,28,Invalid Date,555-7654
+47,Carmen,Navarro,Calle del Parque 818,carmen.navarro@example.com,23456789V,29,Invalid Date,555-2346
+48,Javier,Romero,Avenida del Lago 919,javier.romero@example.com,34567890W,33,Invalid Date,555-8763
+49,Gloria,Reyes,Calle del Mar 1020,gloria.reyes@example.com,45678901X,27,Invalid Date,555-0987
+50,Manuel,Silva,Avenida del Bosque 1111,manuel.silva@example.com,56789012Y,34,Invalid Date,555-4324
